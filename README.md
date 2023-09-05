@@ -5,11 +5,10 @@
 - 🌱 I’m currently working on Robot and SLAM
 - 🏅 Basketball lover
 
-
 <div align="center">
-  
-## Interest 😮
 
+
+## Interest 😮
 **Unmanned Aerial Vehicle, Exploration, Obstacle avoidance, Coverage Path Planning, <br>
 Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
   
