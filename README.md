@@ -4,14 +4,15 @@
 - 🔭 I’m currently pursuing my M.Eng in SEU
 - 🌱 I’m currently working on Robot and SLAM
 - 🏅 Basketball lover
+###
 
 <div align="center">
 
-##
 ## Interest 😮
 **Unmanned Aerial Vehicle, Exploration, Obstacle avoidance, Coverage Path Planning, <br>
 Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
-  
+
+
 ## 🛠 Skills 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
@@ -25,6 +26,7 @@ Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
 ## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=UAV-Navigation-Using-Visual-SLAM&theme=chartreuse-dark)](https://github.com/Yixin-F/UAV-Navigation-Using-Visual-SLAM)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=MD-LVIO&theme=chartreuse-dark)](https://github.com/Yixin-F/MD-LVIO)
+
 
 ## 🤖 Simulations
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/engcang/gazebo_maps)
