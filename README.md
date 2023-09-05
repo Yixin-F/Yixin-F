@@ -23,26 +23,9 @@ Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
 </p>
 
 ## 📌 Pinned repos 📌
-### 👓🔧 Analysis and utils
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=UAV-Navigation-Using-Visual-SLAM&theme=chartreuse-dark)](https://github.com/Yixin-F/UAV-Navigation-Using-Visual-SLAM)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=MD-LVIO&theme=chartreuse-dark)](https://github.com/Yixin-F/MD-LVIO)
 
-### 🤖 Simulations
+## 🤖 Simulations
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/engcang/gazebo_maps)
 
-</div>
-
-<!--
-**Yixin-F/Yixin-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
