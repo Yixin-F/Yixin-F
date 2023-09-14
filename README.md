@@ -3,7 +3,7 @@
 ## Hi, here 👋
 - 🔭 I’m currently pursuing my M.Eng. in SEU
 - 🌱 I’m currently working on Robot and SLAM
-- 🏅 I dream of becoming a professional singer or basketball player
+- 🏅 I'm a basketball and guitar player
 ###
 
 <div align="center">
