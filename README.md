@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yixin-F&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## Hi, here 👋
-- 🔭 I’m currently pursuing my M.Eng. in SEU
-- 🌱 I’m currently working on Robot and SLAM
+- 🔭 I'm currently pursuing my M.Eng. in SEU
+- 🌱 I'm currently working on Robot and SLAM
 - 🏅 I'm a basketball and guitar player
 ###
 
