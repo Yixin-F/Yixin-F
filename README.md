@@ -10,7 +10,7 @@
 
 ## Interest 😮
 **UAVs/UGVs, (learning-based) SLAM, LiDAR(Visual)-Inertial Odometry, Exploration, <br>
-Obstacle avoidance, Coverage Path Planning, Control**
+Obstacle avoidance, Path Planning, Control**
 
 
 ## 🛠 Skills 🛠
