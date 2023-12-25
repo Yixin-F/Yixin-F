@@ -9,7 +9,7 @@
 <div align="center">
 
 ## Interest 😮
-**UAVs/UGVs, (learning-based) SLAM, LiDAR(Visual)-Inertial Odometry, NeRf, <br>
+**UAVs/UGVs, (learning-based) SLAM, LiDAR(Visual)-Inertial Odometry, NeRF, <br>
 Active Exploration, Path Planner, Motion Control**
 
 
