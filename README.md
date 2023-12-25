@@ -9,8 +9,8 @@
 <div align="center">
 
 ## Interest 😮
-**UAVs/UGVs, (learning-based) SLAM, LiDAR(Visual)-Inertial Odometry, Active Exploration, <br>
-Obstacle Avoidance, Path Planning, Motion Control**
+**UAVs/UGVs, (learning-based) SLAM, LiDAR(Visual)-Inertial Odometry, Nerf, <br>
+Active Exploration, Path Planner, Motion Control**
 
 
 ## 🛠 Skills 🛠
