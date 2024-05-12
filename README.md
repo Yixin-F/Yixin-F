@@ -1,5 +1,5 @@
 ## Hi, here 👋
-- 🔭 I'm currently serving as research assistant at my ZJU
+- 🔭 I'm currently serving as research assistant at ZJU
 - 🌱 I'm currently working on Robot and SLAM
 - 🏅 I'm a basketball and guitar player
 ###
