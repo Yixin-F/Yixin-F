@@ -22,14 +22,8 @@ Active Exploration, Path Planner, Motion Control**
 </p>
 
 ## 📌 Pinned repos 📌
-## [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=UAV-Navigation-Using-Visual-SLAM&theme=chartreuse-dark)](https://github.com/Yixin-F/UAV-Navigation-Using-Visual-SLAM)
-## [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=MD-LVIO&theme=chartreuse-dark)](https://github.com/Yixin-F/MD-LVIO)
-## [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=better_fastlio2&theme=chartreuse-dark)](https://github.com/Yixin-F/better_fastlio2)
-
-
-## 🤖 Simulations
-## [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/engcang/gazebo_maps)
-
+ [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=UAV-Navigation-Using-Visual-SLAM&theme=chartreuse-dark)](https://github.com/Yixin-F/UAV-Navigation-Using-Visual-SLAM)
+ [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yixin-F&repo=better_fastlio2&theme=chartreuse-dark)](https://github.com/Yixin-F/better_fastlio2)
 ##
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yixin-F&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
