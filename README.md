@@ -7,7 +7,7 @@
 <div align="center">
 
 ## 😮 Interest 😮
-**UAVs/UGVs, LiDAR(Visual)-Inertial Odometry, Scene Reconstruction, Robot Exploration**
+**UAVs/UGVs, SLAM, Scene Reconstruction, Robot Exploration**
 
 
 ## 🛠 Skills 🛠
