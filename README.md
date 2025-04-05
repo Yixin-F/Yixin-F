@@ -1,5 +1,5 @@
 ## Hi, here 👋
-- 🔭 I'm going to UoE to pursue Ph.D.
+- 🔭 I'm going to UoE for Ph.D studies.
 - 🌱 I'm currently working on Robot and SLAM
 - 🏅 I'm a basketball and guitar player
 ###
