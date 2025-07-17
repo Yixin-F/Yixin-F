@@ -1,13 +1,13 @@
 ## Hi, here 👋
 - 🔭 I'm serving as research assistant at ZJU.
-- 🌱 I'm currently working on Robot and SLAM.
+- 🌱 I'm currently working on Robots and SLAM.
 - 🏅 I'm a basketball and guitar player.
 ###
 
 <div align="center">
 
 ## 😮 Interest 😮
-**UAVs/UGVs, SLAM, Scene Reconstruction, Robot Exploration**
+**Robots, SLAM, Scene Reconstruction**
 
 
 ## 🛠 Skills 🛠
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
 
 ##
