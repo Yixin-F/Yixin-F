@@ -7,7 +7,7 @@
 <div align="center">
 
 ## 😮 Interest 😮
-**Robots, SLAM, Scene Reconstruction**
+**Robots, SLAM, Computer Vision**
 
 
 ## 🛠 Skills 🛠
