@@ -19,6 +19,3 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
 
-##
-# <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yixin-F&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
