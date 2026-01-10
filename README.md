@@ -1,5 +1,5 @@
 ## Hi, here 👋
-- 🔭 I'm serving as research assistant at ZJU.
+- 🔭 I'm a PhD student at University of Edinburgh.
 - 🌱 I'm currently working on Robots and SLAM.
 - 🏅 I'm a basketball and guitar player.
 ###
