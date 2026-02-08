@@ -18,3 +18,5 @@
 <!--   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
+
+[![Stars](https://github-readme-stats.vercel.app/api?username=Yixin-F&hide=contribs,issues,prs,commits&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20)](https://github.com/Yixin-F)
