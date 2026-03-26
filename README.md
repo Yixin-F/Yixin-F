@@ -19,4 +19,5 @@
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yixin-F&show_icons=true)
+
+## ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yixin-F&show_icons=true)
