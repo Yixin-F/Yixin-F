@@ -18,3 +18,5 @@
 <!--   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
+
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yixin-F&show_icons=true)
