@@ -1,5 +1,5 @@
 ## Hi, here 👋
-- 🔭 I'm a IPAB PhD student at University of Edinburgh.
+- 🔭 I'm a IPAB PhD candidate at University of Edinburgh.
 - 🌱 I'm currently working on Robots and SLAM.
 - 🏅 I'm a basketball and guitar player.
 ###
